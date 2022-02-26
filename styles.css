@@ -57,8 +57,10 @@ a:hover {
 
 header {
   text-align: center;color:pink;
-  background:url(images/flight.jpg) no-repeat top center ;
+  background:url('images/flight.jpg') no-repeat top center ;
   background-size: cover;
+  width:480px
+  height:640px
   overflow: hidden;
   padding-top: 60px;
 }
