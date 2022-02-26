@@ -8,7 +8,7 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: Pink;
+  color: black;
   background: #f7f5f0;
 }
 /* Link Styles */
@@ -56,7 +56,7 @@ a:hover {
 }
 
 header {
-  text-align: center;
+  text-align: center;color:pink;
   background: url('images/portland.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: white;
 }
 .card {
   margin: 30px;
