@@ -59,8 +59,6 @@ header {
   text-align: center;color:pink;
   background:url('images/new_background.jpg') no-repeat top center ;
   background-size:auto;
-  width:100px
-  height:100px
   overflow: hidden;
   padding-top: 60px;
 }
