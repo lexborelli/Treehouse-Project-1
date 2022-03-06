@@ -149,11 +149,7 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: .4;
-  transition: all .5s;
-}
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
+  transition: all .5s;}
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
